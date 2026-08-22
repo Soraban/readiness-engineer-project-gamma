@@ -8,6 +8,8 @@ You'll build a small production-grade system: batch 1099-NEC preparation and fil
 - Deliverables: a GitHub repo shared with @seanmcoleman, a short video walkthrough, and a write-up. We run everything locally — no deployment.
 - Where this brief is silent, decide and document the assumption. Scoping is part of the job.
 
+Please spend no more than three hours on this exercise. Prioritize what you believe matters most, leave notes explaining what you would address next, and be prepared to discuss your decisions with us.
+
 ## Why this problem
 
 Soraban builds workflow automation for CPA firms. Our industry is seasonal (most of a firm's revenue lands in ~10 weeks), trust-heavy (regulated client data, professional liability), and unforgiving (a mistake is a penalty notice, not a bug report).
